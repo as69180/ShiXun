@@ -15,6 +15,6 @@
 	<input type="submit" value="提交"  />
 </div>
 </form>
-<div style="color:red;"><s:fielderror /></div>
+<div style="color:red;font-size: 20px;"><s:fielderror /></div>
 </body>
 </html>
